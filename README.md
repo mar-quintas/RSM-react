@@ -4,4 +4,5 @@
 
 2. Now, you can run the project:
     1. cd my-app
-    2. npm run start-remote
+    2. npm install
+    3. npm run start-remote
